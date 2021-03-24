@@ -4,3 +4,4 @@
 .github학습 및 프로젝트 생성
 .github push 체험
 .github push 계정 수정
+.git의 commit과 pull, push 이해
